@@ -11,6 +11,8 @@ public class HelloWorld {
 		
 		System.out.println("Hello B");
 		System.out.println("Hello Aff");
+		
+		int a=10;
     }
 
 }
