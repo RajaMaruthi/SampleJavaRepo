@@ -15,6 +15,8 @@ public class HelloWorld {
 		int a=10;
 		
 		int b=20;
+		
+		float b-10.0;
     }
 
 }
